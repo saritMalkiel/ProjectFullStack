@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kOiptdswlvVQCymXwcGjHa5s3UTR3HNtX4xwidD7PB+/4YLqkwHV0XEk/K0jGGxlh8TH8mK2PSc9cMLQOhbqTw==",
+  "success": true,
+  "projectFilePath": "E:\\ProjMarkerImage\\MarkerImages\\MarkerContracts\\MarkerContracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\infradalcontracts\\1.0.2\\infradalcontracts.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
